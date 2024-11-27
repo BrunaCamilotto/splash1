@@ -1,0 +1,17 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.parent {
+  -fx-background-color: #ffb548;
+}
+
+.txt-fields {
+  -fx-background-color: transparent;
+}
+
+.vbox {
+  -fx-background-color: #ffffff;
+  -fx-background-radius: 3.0px;
+}
+
+.txt-color {
+  -fx-text-fill: #999999;
+}
